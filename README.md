@@ -30,7 +30,7 @@ from life import Goal
 success = Goal.achieved()
 
 while not success:
-  keep_trying()
+  Goal.keep_trying()
 ```
 
 <!--
