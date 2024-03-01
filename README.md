@@ -7,7 +7,7 @@ Currently studying Bsc. in Computer Science and Engineering in United Internatio
 <br/>
 
 <details>
-  <summary>Languages that I'm Learning</summary>
+  <summary>Click here to view the languages that I'm Learning</summary>
 
 |  Sl.  | Language |
 |------:|----------|
