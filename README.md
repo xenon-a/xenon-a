@@ -1,29 +1,31 @@
 ### Hi there 👋
 ---
-> <b>I'm Md. Rimel Hossain</b>
+> I'm:
+>   - **Md. Rimel Hossain**
+>   - A student
+>   - Currently studying Bsc. in Computer Science and Engineering in United International University, Dhaka.
 
 <br/>
-Currently studying Bsc. in Computer Science and Engineering in United International University, Dhaka.
-<br/>
-
 <details>
   <summary>Click here to view the languages that I'm Learning</summary>
 
-|  Sl.  | Language |
-|------:|----------|
-| 1.    | Python   |
-| 2.    | C        |
+|  Sl.  | Language                |
+|------:|-------------------------|
+|1.     | Python                  |
+|2.     | C                       |
+|3.     | More laguages: Very soon|
 </details>
 
-I'll be learning more languages very soon.
-
 ### Interests:
-  Bots or automations, Artificial Intelligence, and also Cyber Security or Ethical Hacking.
+> Bots or automations, Artificial Intelligence, and also Cyber Security or Ethical Hacking.
 
-Favourite Language:
+### Favourite Language:
+> **[Python](https://www.python.org)**
+
+Add me
 ---
-> <b>Python</b>
----
+> [Facebook](https://www.facebook.com/rimelhoss053) | [Instagram](https://www.instagram.com/droid.xenon/) | Discord: @xenon.py
+
 ```py
 from life import Goal
 
@@ -31,6 +33,7 @@ success = Goal.achieved()
 
 while not success:
   Goal.keep_trying()
+  success = Goal.achieved()
 ```
 
 <!--
