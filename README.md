@@ -3,7 +3,7 @@
 > I'm:
 >   - **Md. Rimel Hossain**
 >   - A student
->   - Currently studying Bsc. in Computer Science and Engineering in United International University, Dhaka.
+>   - Currently studying BSc. in Computer Science and Engineering in United International University, Dhaka.
 
 <br/>
 <details>
